@@ -118,6 +118,13 @@
     <maven>3.0.4</maven>
   </prerequisites>
 
+  <repositories>
+    <repository>
+      <id>axelor</id>
+      <url>https://repository.axelor.com/nexus/repository/maven-public/</url>
+    </repository>
+  </repositories>
+
   <dependencyManagement>
     <dependencies>
 
