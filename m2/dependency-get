@@ -1,0 +1,10 @@
+#!/bin/bash
+
+set -TEeuo pipefail
+
+while IFS=$'\t' read -r REPO_URL ARTIFACT; do
+	mvn dependency:get \
+		-Dmaven.repo.local=./repository \
+		-DremoteRepositories="$REPO_URL" \
+		-Dartifact="$ARTIFACT"
+done
