@@ -1,0 +1,14 @@
+https://repository.axelor.com/nexus/repository/maven-public	com.android.tools.build:builder-model:2.3.3
+https://repository.axelor.com/nexus/repository/maven-public	com.android.tools.build:builder:2.3.3
+https://repository.axelor.com/nexus/repository/maven-public	com.android.tools.build:manifest-merger:25.3.3
+https://repository.axelor.com/nexus/repository/maven-public	com.android.tools.ddms:ddmlib:25.3.3
+https://repository.axelor.com/nexus/repository/maven-public	com.android.tools.layoutlib:layoutlib-api:25.3.3
+https://repository.axelor.com/nexus/repository/maven-public	com.android.tools.lint:lint-api:25.3.3
+https://repository.axelor.com/nexus/repository/maven-public	com.android.tools.lint:lint-checks:25.3.3
+https://repository.axelor.com/nexus/repository/maven-public	com.android.tools.lint:lint:25.3.3
+https://repository.axelor.com/nexus/repository/maven-public	com.android.tools:annotations:25.3.3
+https://repository.axelor.com/nexus/repository/maven-public	com.android.tools:common:25.3.3
+https://repository.axelor.com/nexus/repository/maven-public	com.android.tools:dvlib:25.3.3
+https://repository.axelor.com/nexus/repository/maven-public	com.android.tools:repository:25.3.3
+https://repository.axelor.com/nexus/repository/maven-public	com.android.tools:sdk-common:25.3.3
+https://repository.axelor.com/nexus/repository/maven-public	com.android.tools:sdklib:25.3.3

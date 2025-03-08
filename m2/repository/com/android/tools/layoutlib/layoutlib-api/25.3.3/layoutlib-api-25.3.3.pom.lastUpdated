@@ -1,0 +1,11 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Mar 08 11:53:58 EET 2025
+file\:///opt/android-sdk/extras/android/m2repository/.error=
+file\:///opt/android-sdk/extras/android/m2repository/.lastUpdated=1741427638395
+file\:///opt/android-sdk/extras/google/m2repository/.error=
+file\:///opt/android-sdk/extras/google/m2repository/.lastUpdated=1741427638397
+https\://maven.google.com/.error=
+https\://maven.google.com/.lastUpdated=1741427638523
+https\://repo.maven.apache.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1741427638392
+https\://repository.axelor.com/nexus/repository/maven-public/.lastUpdated=1741427638703
