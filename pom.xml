@@ -121,7 +121,7 @@
   <repositories>
     <repository>
       <id>axelor</id>
-      <url>https://repository.axelor.com/nexus/repository/maven-public/</url>
+      <url>file://${project.basedir}/m2/repository</url>
     </repository>
   </repositories>
 
