@@ -1,0 +1,9 @@
+#!/bin/bash
+
+set -TEeuo pipefail
+
+declare -r COMMIT_ID="$(git rev-parse master)"
+
+export ARTIFACT_SUFFIX="-$COMMIT_ID"
+
+mvn -D skipTests=true clean install
